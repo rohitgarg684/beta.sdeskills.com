@@ -6,6 +6,6 @@ date: '2021-03-31 9:00:00 -0700'
 background: /img/bg-games.jpg
 author: Vivek K
 ---
-Learning to code can be someti quite boring. Why not try to make it a bit fun by coding simple games. Don't wait - Jump over to the [30 Day Coding Challenge](/30day-challenge) page.
+Learning to code can be sometimes quite boring. Why not try to make it a bit fun by coding simple games. Don't wait - Jump over to the [30 Day Coding Challenge](/30day-challenge) page.
 
 Don't forget to subscribe to be notified when the questions are out.
